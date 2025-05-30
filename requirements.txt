@@ -1,0 +1,7 @@
+# Core dependencies for compare-har.py
+pandas==2.2.3
+matplotlib==3.10.3
+numpy==2.2.6
+
+# Note: argparse is included in Python standard library (Python 2.7+ and 3.2+)
+# Note: json is included in Python standard library
